@@ -15,7 +15,7 @@ function sleep(ms) {
 function startBot() {
   const bot = mineflayer.createBot({
     host: 'zurnacraft.net',
-    username: 'pastirmaliyaglam',
+    username: 'yaglamalipastirm',
     version: false
   })
 
